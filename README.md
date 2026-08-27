@@ -14,4 +14,4 @@ sensor fusion (complementary filtering), real-time data integration, drift and e
 
 [robot](robot.jpg) 
 
-[custom PCB](pcb.jpeg)
+[custom PCB](pcb.jpg)
